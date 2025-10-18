@@ -9,7 +9,7 @@ A pose classifier for Clash Royale emotes built using MediaPipe for landmark det
 - **Pose Detection**: Full body pose with 33 landmarks
 - **Face Detection**: 468 facial landmarks
 - **Hand Detection**: Left and right hand with 21 landmarks each
-- **Pose Classification**: ML model to classify poses (Standing, Sitting, Arms Raised, Waving)
+- **Pose Classification**: ML model (RandomForest) to classify poses
 - **Real-time Processing**: Live webcam feed processing with pose prediction
 - **Data Collection**: Tool to collect training data for custom poses
 - **Visualization**: Colored landmarks and connections with pose labels
